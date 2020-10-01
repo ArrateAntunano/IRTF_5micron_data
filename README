@@ -1,0 +1,12 @@
+Antuñano et al. 2019 (https://doi.org/10.3847/1538-3881/ab2cd6) used Jupiter infrared data captured by 7 different ground-based instruments 
+mounted on the Infrared Telescope Facility (IRTF) between 1983-2018 to investigate Jupiter's long-term atmospheric variablity at 5 µm.
+
+This repository contains Jupiter 5-µm observations capture by BOLO-1, ProtoCam, NSFCam, MIRSI, NSFCam2, SpeX and TEXES instruments mounted at 
+the Infrared Telescope Facility (IRTF) on Maunakea, Hawai'i, between 1983 and 2019.
+
+ProtoCam observations were reduced, mapped and mosaicked by J. Harrington (Harrington et al. 1996, 1996b).
+BOLO-1 observations were reduced by Orton et al. (Orton et al. 1991, 1994). 
+A. Antuñano reduced and mapped NSFCam, MIRSI, NSFCam2, SpeX and TEXES observations.
+
+*Important: These data need to be scaled or calibrated to be able to compare it between different dates and instruments. See Antuñano et al (2018, 2019)
+for more information on how to do this.
